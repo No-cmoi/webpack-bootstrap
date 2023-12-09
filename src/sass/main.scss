@@ -1,7 +1,12 @@
 @import "bootstrap.custom";
 @import "~bootstrap/scss/bootstrap.scss";
 
-.card {
-    background: $primary;
-    margin-bottom: 1rem;
+body, .btn, h1, h2, h5{
+    font-weight: 300;
+
+}
+
+.container{
+  margin-top: 2rem;
+  margin-bottom: 4rem;
 }
